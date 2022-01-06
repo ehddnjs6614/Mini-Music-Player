@@ -121,10 +121,12 @@ function change_duration() {
 ***
 
 ## 개선사항 & 느낀점
+```
  - 사용자의 시점에서 불편한 ui 
  - 깔끔하지못한 기능들
  - css , javascript 이해가 좀 부족한거같다
  
- 부족한 css와 javascript 를 학습하고 숙달 반복! 
+ 부족한 css와 javascript 를 학습하고 숙달 반복!
+ ```
  
  
